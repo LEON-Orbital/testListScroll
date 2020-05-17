@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListScrollApp</string>
+
+    <string-array name="shopnames">
+        <item>Arise Shine E4</item>
+        <item>Arise Shine S16</item>
+        <item>ATempo</item>
+        <item>Bar Bar Black Sheep</item>
+        <item>Cafe Delight</item>
+        <item>Central Square</item>
+        <item>Crave</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>yomz</item>
+        <item>yummy</item>
+        <item>ystcm</item>
+        <item>slurp</item>
+        <item>ventus</item>
+        <item>big meals</item>
+        <item>dapao</item>
+    </string-array>
+
+
+</resources>
